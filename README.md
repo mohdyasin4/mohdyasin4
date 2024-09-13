@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack web development.<br>👯 I’m looking to collaborate on web and mobile app projects.<br>🤝 I’m looking for help with backend optimization and database management.<br>🌱 I’m currently learning advanced JavaScript frameworks and TypeScript.<br>💬 Ask me about React, Next.js, and frontend development.<br>⚡ Fun fact: I love solving challenging problems and optimizing user experiences.<br>🔧 I’m looking to contribute to open-source projects related to web development.
+👋 I’m Mohd Yasin, a 20-year-old from Mumbai, India.<br>🎓 I’m currently in my final year of Bachelor of Engineering in Electronics & Computer Science.<br>🔭 I’m currently working on full-stack web development.<br>👯 I’m looking to collaborate on web and mobile app projects.<br>🌱 I’m currently learning advanced JavaScript frameworks and TypeScript.<br>⚡ Fun fact: I love solving challenging problems and optimizing user experiences.<br>🔧 I’m looking to contribute to open-source projects related to web development.
 
 
 ## 🌐 Socials:

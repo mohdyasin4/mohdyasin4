@@ -1,6 +1,12 @@
-# 💫 About Me:
-👋 I’m Mohd Yasin, a 20-year-old from Mumbai, India.<br>🎓 I’m currently in my final year of Bachelor of Engineering in Electronics & Computer Science.<br>🔭 I’m currently working on full-stack web development.<br>👯 I’m looking to collaborate on web and mobile app projects.<br>🌱 I’m currently learning advanced JavaScript frameworks and TypeScript.<br>⚡ Fun fact: I love solving challenging problems and optimizing user experiences.<br>🔧 I’m looking to contribute to open-source projects related to web development.
+:wave: Hey there! I'm Mohd Yasin, a passionate 21-year-old developer based in Mumbai, India 🇮🇳 </br>🎓 Final-year B.E. student specializing in Electronics & Computer Science </br>🧠 Curious by nature, I love blending design with tech to build user-friendly, high-performance products
 
+🚀 What I'm Up To:
+</br>🔭 Currently working on full-stack web development projects
+</br>🌱 Learning advanced JavaScript frameworks, TypeScript, and exploring cloud deployments
+</br>🤝 Open to collaborations on web, mobile apps, or open-source projects
+</br>💬 Always up for deep tech discussions or building cool ideas together
+
+>⚡ Fun fact: I enjoy solving tough problems and turning complex UX into something delightful
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/im_yasin07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md_yasinn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohdyasinn/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MohdYasin04) 

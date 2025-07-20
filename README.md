@@ -15,14 +15,6 @@ I’m also exploring cloud deployment, UI animations, and improving performance 
 
 ---
 
-### 🛠 Tech Stack  
-**Languages:** TypeScript, JavaScript, Python, HTML, CSS  
-**Frameworks & Libraries:** React, Next.js, Express.js, Tailwind, GSAP  
-**Databases & Cloud:** MongoDB, MySQL, Firebase, Supabase, Vercel, Docker  
-**Tools & Others:** Figma, Framer, Postman, Git
-
----
-
 ### 🌐 Connect with Me  
 [Discord](https://discord.gg/im_yasin07) ・ [Instagram](https://instagram.com/md_yasinn) ・ [LinkedIn](https://www.linkedin.com/in/yasinmunshi/) ・ [Twitter/X](https://x.com/MohdYasin04)
 
